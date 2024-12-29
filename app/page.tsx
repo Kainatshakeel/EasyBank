@@ -1,6 +1,6 @@
 
 
-import Choose from "./components/choose";
+
 import LatestArticles from "./components/latest-articles";
 import NextGen from "./components/ui/next-gen";
 
